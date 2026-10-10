@@ -36,3 +36,4 @@
 - [2026-10-10 20:00:21] chore: sync maintenance record and documentation (step #9)
 - [2026-10-10 20:00:35] style: standardize heading structure in docs (step #10)
 - [2026-10-10 20:00:51] style: refine markdown layout and spacing (step #11)
+- [2026-10-10 20:01:07] docs: add reference notes to project documentation (step #12)
