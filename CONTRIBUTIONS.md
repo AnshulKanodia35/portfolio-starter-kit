@@ -61,3 +61,4 @@
 - [2026-10-10 20:07:33] chore: sync maintenance record and documentation (step #34)
 - [2026-10-10 20:07:49] docs: add reference notes to project documentation (step #35)
 - [2026-10-10 20:08:06] style: refine markdown layout and spacing (step #36)
+- [2026-10-10 20:08:25] docs: update documentation guidelines (step #37)
