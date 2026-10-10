@@ -45,3 +45,4 @@
 - [2026-10-10 20:02:50] refactor: streamline project notes formatting (step #18)
 - [2026-10-10 20:03:10] style: standardize heading structure in docs (step #19)
 - [2026-10-10 20:03:28] fix: correct minor typo in project notes (step #20)
+- [2026-10-10 20:03:45] docs: add reference notes to project documentation (step #21)
