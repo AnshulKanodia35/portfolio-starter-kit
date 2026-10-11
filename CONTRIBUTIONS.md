@@ -89,3 +89,4 @@
 - [2026-10-11 19:33:40] docs: update documentation guidelines (step #12)
 - [2026-10-11 19:33:59] fix: correct minor typo in project notes (step #13)
 - [2026-10-11 19:34:16] style: standardize heading structure in docs (step #14)
+- [2026-10-11 19:34:33] docs: add reference notes to project documentation (step #15)
