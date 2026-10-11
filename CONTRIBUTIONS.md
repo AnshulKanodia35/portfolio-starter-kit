@@ -124,3 +124,4 @@
 - [2026-10-11 19:43:51] chore: sync maintenance record and documentation (step #47)
 - [2026-10-11 19:44:08] chore: sync maintenance record and documentation (step #48)
 - [2026-10-11 19:44:25] style: standardize heading structure in docs (step #49)
+- [2026-10-11 19:44:43] docs: expand contribution and setup guidelines (step #50)
