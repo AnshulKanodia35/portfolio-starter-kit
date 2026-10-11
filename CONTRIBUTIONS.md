@@ -99,3 +99,4 @@
 - [2026-10-11 19:36:32] fix: correct minor typo in project notes (step #22)
 - [2026-10-11 19:36:47] refactor: streamline project notes formatting (step #23)
 - [2026-10-11 19:37:04] chore: sync maintenance record and documentation (step #24)
+- [2026-10-11 19:37:21] docs: expand contribution and setup guidelines (step #25)
