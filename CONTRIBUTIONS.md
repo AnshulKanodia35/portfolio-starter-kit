@@ -78,3 +78,4 @@
 - [2026-10-11 19:30:22] fix: correct minor typo in project notes (step #1)
 - [2026-10-11 19:30:40] style: refine markdown layout and spacing (step #2)
 - [2026-10-11 19:30:56] style: refine markdown layout and spacing (step #3)
+- [2026-10-11 19:31:13] docs: add reference notes to project documentation (step #4)
