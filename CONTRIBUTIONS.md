@@ -151,3 +151,4 @@
 - [2026-10-12 21:44:43] style: standardize heading structure in docs (step #24)
 - [2026-10-12 21:45:03] fix: correct minor typo in project notes (step #25)
 - [2026-10-12 21:45:28] style: refine markdown layout and spacing (step #26)
+- [2026-10-12 21:45:45] refactor: streamline project notes formatting (step #27)
