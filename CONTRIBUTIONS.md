@@ -172,3 +172,4 @@
 - [2026-10-12 21:51:25] style: standardize heading structure in docs (step #45)
 - [2026-10-12 21:51:44] docs: update documentation guidelines (step #46)
 - [2026-10-12 21:52:04] fix: correct minor typo in project notes (step #47)
+- [2026-10-12 21:52:22] docs: expand contribution and setup guidelines (step #48)
