@@ -162,3 +162,4 @@
 - [2026-10-12 21:48:18] style: refine markdown layout and spacing (step #35)
 - [2026-10-12 21:48:36] docs: update documentation guidelines (step #36)
 - [2026-10-12 21:48:55] style: refine markdown layout and spacing (step #37)
+- [2026-10-12 21:49:13] docs: add reference notes to project documentation (step #38)
