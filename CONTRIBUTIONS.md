@@ -148,3 +148,4 @@
 - [2026-10-12 21:43:43] fix: correct minor typo in project notes (step #21)
 - [2026-10-12 21:44:03] fix: correct minor typo in project notes (step #22)
 - [2026-10-12 21:44:21] docs: add reference notes to project documentation (step #23)
+- [2026-10-12 21:44:43] style: standardize heading structure in docs (step #24)
