@@ -141,3 +141,4 @@
 - [2026-10-12 20:23:31] fix: correct minor typo in project notes (step #14)
 - [2026-10-12 20:23:51] refactor: streamline project notes formatting (step #15)
 - [2026-10-12 20:24:08] style: refine markdown layout and spacing (step #16)
+- [2026-10-12 20:24:27] docs: add reference notes to project documentation (step #17)
