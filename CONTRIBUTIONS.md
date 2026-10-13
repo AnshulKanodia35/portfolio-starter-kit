@@ -194,3 +194,4 @@
 - [2026-10-13 16:12:17] docs: expand contribution and setup guidelines (step #17)
 - [2026-10-13 16:12:35] docs: update documentation guidelines (step #18)
 - [2026-10-13 16:12:53] docs: expand contribution and setup guidelines (step #19)
+- [2026-10-13 16:13:10] docs: add reference notes to project documentation (step #20)
