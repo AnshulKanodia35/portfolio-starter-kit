@@ -175,3 +175,4 @@
 - [2026-10-12 21:52:22] docs: expand contribution and setup guidelines (step #48)
 - [2026-10-12 21:52:39] fix: correct minor typo in project notes (step #49)
 - [2026-10-12 21:52:58] style: refine markdown layout and spacing (step #50)
+- [2026-10-13 16:07:03] docs: update documentation guidelines (step #1)
