@@ -188,3 +188,4 @@
 - [2026-10-13 16:10:21] refactor: streamline project notes formatting (step #11)
 - [2026-10-13 16:10:42] fix: correct minor typo in project notes (step #12)
 - [2026-10-13 16:11:02] docs: expand contribution and setup guidelines (step #13)
+- [2026-10-13 16:11:21] docs: add reference notes to project documentation (step #14)
