@@ -177,3 +177,4 @@
 - [2026-10-12 21:52:58] style: refine markdown layout and spacing (step #50)
 - [2026-10-13 16:07:03] docs: update documentation guidelines (step #1)
 - [2026-10-13 16:07:24] refactor: streamline project notes formatting (step #2)
+- [2026-10-13 16:07:45] style: standardize heading structure in docs (step #3)
