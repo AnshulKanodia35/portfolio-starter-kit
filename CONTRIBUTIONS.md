@@ -227,3 +227,4 @@
 - [2026-10-13 21:32:57] style: refine markdown layout and spacing (step #24)
 - [2026-10-14 21:53:18] style: standardize heading structure in docs (step #1)
 - [2026-10-14 21:53:35] chore: sync maintenance record and documentation (step #2)
+- [2026-10-14 21:54:25] docs: update documentation guidelines (step #3)
