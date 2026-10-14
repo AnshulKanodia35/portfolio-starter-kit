@@ -253,3 +253,4 @@
 - [2026-10-14 22:02:28] style: standardize heading structure in docs (step #26)
 - [2026-10-14 22:02:47] docs: update documentation guidelines (step #27)
 - [2026-10-14 22:03:05] style: standardize heading structure in docs (step #28)
+- [2026-10-14 22:03:24] docs: add reference notes to project documentation (step #29)
