@@ -246,3 +246,4 @@
 - [2026-10-14 22:00:06] fix: correct minor typo in project notes (step #19)
 - [2026-10-14 22:00:25] style: standardize heading structure in docs (step #20)
 - [2026-10-14 22:00:43] refactor: streamline project notes formatting (step #21)
+- [2026-10-14 22:01:06] docs: add reference notes to project documentation (step #22)
