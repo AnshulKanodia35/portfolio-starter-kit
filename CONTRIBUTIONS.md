@@ -273,3 +273,4 @@
 - [2026-10-15 22:17:01] chore: sync maintenance record and documentation (step #12)
 - [2026-10-15 22:17:19] style: standardize heading structure in docs (step #13)
 - [2026-10-15 22:17:39] docs: add reference notes to project documentation (step #14)
+- [2026-10-15 22:17:58] docs: expand contribution and setup guidelines (step #15)
