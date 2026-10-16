@@ -326,3 +326,4 @@
 - [2026-10-16 18:28:13] fix: correct minor typo in project notes (step #21)
 - [2026-10-16 18:28:32] docs: expand contribution and setup guidelines (step #22)
 - [2026-10-16 18:28:52] style: refine markdown layout and spacing (step #23)
+- [2026-10-16 18:29:09] docs: expand contribution and setup guidelines (step #24)
