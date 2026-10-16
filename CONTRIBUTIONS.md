@@ -332,3 +332,4 @@
 - [2026-10-16 18:30:06] refactor: streamline project notes formatting (step #27)
 - [2026-10-16 18:30:27] style: refine markdown layout and spacing (step #28)
 - [2026-10-16 18:30:46] chore: sync maintenance record and documentation (step #29)
+- [2026-10-16 18:31:06] style: standardize heading structure in docs (step #30)
