@@ -306,3 +306,4 @@
 - [2026-10-16 18:21:59] docs: expand contribution and setup guidelines (step #1)
 - [2026-10-16 18:22:16] refactor: streamline project notes formatting (step #2)
 - [2026-10-16 18:22:35] fix: correct minor typo in project notes (step #3)
+- [2026-10-16 18:22:53] docs: expand contribution and setup guidelines (step #4)
