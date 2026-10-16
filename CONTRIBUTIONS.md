@@ -341,3 +341,4 @@
 - [2026-10-16 23:29:05] docs: update documentation guidelines (step #4)
 - [2026-10-16 23:29:23] chore: sync maintenance record and documentation (step #5)
 - [2026-10-16 23:29:39] chore: sync maintenance record and documentation (step #6)
+- [2026-10-16 23:29:58] docs: add reference notes to project documentation (step #7)
