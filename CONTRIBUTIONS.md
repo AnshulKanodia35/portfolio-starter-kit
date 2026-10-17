@@ -405,3 +405,4 @@
 - [2026-10-17 23:09:48] fix: correct minor typo in project notes (step #38)
 - [2026-10-17 23:10:05] chore: sync maintenance record and documentation (step #39)
 - [2026-10-17 23:10:21] fix: correct minor typo in project notes (step #40)
+- [2026-10-17 23:10:41] style: standardize heading structure in docs (step #41)
