@@ -363,3 +363,4 @@
 - [2026-10-17 10:25:15] docs: update documentation guidelines (step #14)
 - [2026-10-17 10:25:33] refactor: streamline project notes formatting (step #15)
 - [2026-10-17 10:25:52] docs: add reference notes to project documentation (step #16)
+- [2026-10-17 10:26:09] docs: expand contribution and setup guidelines (step #17)
