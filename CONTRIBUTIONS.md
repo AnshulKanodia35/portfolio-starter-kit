@@ -367,3 +367,4 @@
 - [2026-10-17 10:26:26] refactor: streamline project notes formatting (step #18)
 - [2026-10-17 22:58:39] chore: sync maintenance record and documentation (step #1)
 - [2026-10-17 22:59:00] docs: update documentation guidelines (step #2)
+- [2026-10-17 22:59:22] docs: expand contribution and setup guidelines (step #3)
