@@ -381,3 +381,4 @@
 - [2026-10-17 23:02:45] style: standardize heading structure in docs (step #14)
 - [2026-10-17 23:03:00] style: standardize heading structure in docs (step #15)
 - [2026-10-17 23:03:18] style: refine markdown layout and spacing (step #16)
+- [2026-10-17 23:03:37] docs: expand contribution and setup guidelines (step #17)
