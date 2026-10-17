@@ -383,3 +383,4 @@
 - [2026-10-17 23:03:18] style: refine markdown layout and spacing (step #16)
 - [2026-10-17 23:03:37] docs: expand contribution and setup guidelines (step #17)
 - [2026-10-17 23:03:55] style: standardize heading structure in docs (step #18)
+- [2026-10-17 23:04:13] docs: add reference notes to project documentation (step #19)
