@@ -410,3 +410,4 @@
 - [2026-10-18 10:15:01] refactor: streamline project notes formatting (step #1)
 - [2026-10-18 10:15:19] style: standardize heading structure in docs (step #2)
 - [2026-10-18 10:15:37] style: refine markdown layout and spacing (step #3)
+- [2026-10-18 10:15:54] style: standardize heading structure in docs (step #4)
