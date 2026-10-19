@@ -460,3 +460,4 @@
 - [2026-10-19 07:34:11] refactor: streamline project notes formatting (step #5)
 - [2026-10-19 07:34:28] docs: expand contribution and setup guidelines (step #6)
 - [2026-10-19 07:34:46] docs: expand contribution and setup guidelines (step #7)
+- [2026-10-19 07:35:07] docs: update documentation guidelines (step #8)
