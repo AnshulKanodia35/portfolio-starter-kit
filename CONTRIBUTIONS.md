@@ -454,3 +454,4 @@
 - [2026-10-18 21:02:10] style: standardize heading structure in docs (step #9)
 - [2026-10-18 21:02:28] docs: update documentation guidelines (step #10)
 - [2026-10-19 07:32:55] refactor: streamline project notes formatting (step #1)
+- [2026-10-19 07:33:13] docs: add reference notes to project documentation (step #2)
