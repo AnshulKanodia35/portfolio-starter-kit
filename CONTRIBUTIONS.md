@@ -509,3 +509,4 @@
 - [2026-10-20 18:05:11] fix: correct minor typo in project notes (step #9)
 - [2026-10-20 18:05:31] style: refine markdown layout and spacing (step #10)
 - [2026-10-20 18:05:51] style: standardize heading structure in docs (step #11)
+- [2026-10-20 18:06:09] style: standardize heading structure in docs (step #12)
