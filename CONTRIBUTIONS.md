@@ -494,3 +494,4 @@
 - [2026-10-20 09:33:20] docs: expand contribution and setup guidelines (step #5)
 - [2026-10-20 09:33:36] fix: correct minor typo in project notes (step #6)
 - [2026-10-20 09:33:52] chore: sync maintenance record and documentation (step #7)
+- [2026-10-20 09:34:10] docs: expand contribution and setup guidelines (step #8)
