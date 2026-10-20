@@ -489,3 +489,4 @@
 - [2026-10-19 19:35:54] fix: correct minor typo in project notes (step #19)
 - [2026-10-20 09:32:16] fix: correct minor typo in project notes (step #1)
 - [2026-10-20 09:32:33] style: standardize heading structure in docs (step #2)
+- [2026-10-20 09:32:49] docs: expand contribution and setup guidelines (step #3)
