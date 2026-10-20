@@ -496,3 +496,4 @@
 - [2026-10-20 09:33:52] chore: sync maintenance record and documentation (step #7)
 - [2026-10-20 09:34:10] docs: expand contribution and setup guidelines (step #8)
 - [2026-10-20 09:34:27] docs: add reference notes to project documentation (step #9)
+- [2026-10-20 09:34:45] docs: expand contribution and setup guidelines (step #10)
