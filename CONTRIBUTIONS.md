@@ -534,3 +534,4 @@
 - [2026-10-21 10:45:51] style: refine markdown layout and spacing (step #16)
 - [2026-10-21 16:26:19] style: refine markdown layout and spacing (step #1)
 - [2026-10-21 16:26:39] docs: expand contribution and setup guidelines (step #2)
+- [2026-10-21 16:27:04] docs: expand contribution and setup guidelines (step #3)
