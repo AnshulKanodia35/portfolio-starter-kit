@@ -558,3 +558,4 @@
 - [2026-10-21 22:22:36] docs: expand contribution and setup guidelines (step #1)
 - [2026-10-21 22:22:52] docs: expand contribution and setup guidelines (step #2)
 - [2026-10-21 22:23:11] docs: expand contribution and setup guidelines (step #3)
+- [2026-10-21 22:23:27] style: standardize heading structure in docs (step #4)
