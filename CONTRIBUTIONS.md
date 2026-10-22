@@ -587,3 +587,4 @@
 - [2026-10-22 18:14:32] docs: expand contribution and setup guidelines (step #3)
 - [2026-10-22 18:14:49] refactor: streamline project notes formatting (step #4)
 - [2026-10-22 18:15:05] style: standardize heading structure in docs (step #5)
+- [2026-10-22 18:15:26] docs: update documentation guidelines (step #6)
